@@ -9,6 +9,7 @@ body {
 .container {
 	width: 960px;
 	margin: 0 auto;
+	background: #EB6600
 }
 .header {
 	background: #AAAAAA;
