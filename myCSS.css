@@ -5,7 +5,7 @@ body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
 }
 .homePage {
-	background: ##B67BE8;
+	background: #B67BE8;
 }
 .container {
 	width: 960px;
@@ -21,7 +21,7 @@ body {
 	height: 85px;	
 }
 .nav {
-	background: ##17777A;
+	background: #17777A;
 	margin: 0px;
 	padding: 5;
 	float: left;
