@@ -32,6 +32,7 @@ body {
 .content {
 	background: #E4DED4;
 	margin: 0px;
+	padding: 5;
 	float: left;
 	width: 100%;
 	text-align: left;
